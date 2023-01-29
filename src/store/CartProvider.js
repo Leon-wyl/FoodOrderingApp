@@ -1,6 +1,4 @@
 import { useReducer } from "react";
-import { act } from "react-dom/test-utils";
-
 import CartContext from "./cart-context";
 
 const defaultCartState = {
